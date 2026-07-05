@@ -1,6 +1,0 @@
-{
-  "name": "CloudTrim",
-  "description": "An AI-powered cloud cost optimizer that analyzes resource usage using senior FinOps insights to identify idle, oversized, or orphaned resources and maximize savings.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
