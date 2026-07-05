@@ -3,8 +3,7 @@
 An elegant, AI-powered Cloud Cost Optimization and Infrastructure Audit Dashboard. CloudTrim analyzes cloud resources (VMs, databases, storage buckets) to identify waste, propose rightsizing, and recommend actions to trim down cloud expenditures.
 
 ## 🔗 Live Application Links
-- **Development App:** [https://ais-dev-hqtx2uyoi2z7lpnqpmey2t-45819661097.asia-southeast1.run.app](https://ais-dev-hqtx2uyoi2z7lpnqpmey2t-45819661097.asia-southeast1.run.app)
-- **Shared App Preview:** [https://ais-pre-hqtx2uyoi2z7lpnqpmey2t-45819661097.asia-southeast1.run.app](https://ais-pre-hqtx2uyoi2z7lpnqpmey2t-45819661097.asia-southeast1.run.app)
+- **Development App:** [https://ais-pre-hqtx2uyoi2z7lpnqpmey2t-45819661097.asia-southeast1.run.app](https://ais-pre-hqtx2uyoi2z7lpnqpmey2t-45819661097.asia-southeast1.run.app)
 
 ---
 
